@@ -1,0 +1,109 @@
+/* 
+
+.information {
+
+    margin-top: 80px;
+    }
+    .information img{
+    
+        border-radius: 10px;
+    
+    }
+    .information .info-text span{
+        font-size: 20px;
+    }
+
+    .information .img-click{
+        transition: .5s;
+     }   
+ .information .img-click:hover{
+    filter: grayscale();
+ }    
+    .information .info-text form button{
+        background-color: var(--mainColor--);
+        border-radius: 10px;
+        padding: 9px 60px 7px 66px;
+        border: none;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .information .wrapper{
+        display: inline-block;
+        background-color: #fff;
+        border-radius: 12px;
+    background-color: rgb(207, 204, 204);}
+     .information .wrapper span{
+    
+        font-size: 25px;
+        font-weight: 600;
+        padding-right: 22px;
+        padding-left: 22px;
+        cursor: pointer;
+    }
+   .information .wrapper span.num{
+        font-size: 25px;
+        pointer-events: none;
+    
+    }
+
+
+    .slide-parts h3{
+        color: var(--mainColor--);
+    }
+    .slide-parts .card{
+       border-radius: 40px;
+       overflow: hidden;
+       transition: .5s;
+       cursor: pointer;
+       margin-top: 20px;
+
+    }
+   
+    .slide-parts .card:hover{
+        transform: translateY(-20px);
+        box-shadow: 0px 5px 5px 0px black;
+
+     }
+    .slide-parts .card p{
+        line-height: .5;
+        font-size: 18px;
+    }
+    
+  
+    .slide-parts .owl-carousel .owl-nav button.owl-next{
+        position: absolute;
+        top: 15%;
+        right: -40px;
+        font-size: 100px;
+       
+        height: 45px;
+        color: #3a3333;
+    }
+    .slide-parts .owl-carousel .owl-nav button.owl-prev{
+        position: absolute;
+        top: 15%;
+        left: -40px;
+        font-size: 100px;
+        height: 45px;
+        color: #3a3333;
+    }
+    .slide-parts .owl-carousel .owl-nav.disabled{
+        display: inline-block;   
+    }
+    
+.information .main-img{
+    position: relative;
+}
+
+.information .main-img .exsit{
+    position: absolute;
+    left: 3%;
+    top: 3%;
+    display: none;
+    cursor: pointer;
+}
+.information .info-img .owl-nav{
+    display: none;
+} */
